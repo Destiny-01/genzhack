@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+}
+body{
+    width: 1440px;
+    height: 1024px;
+    margin: 10px 200px;
+    font-family: 'DM Sans', sans-serif;
+}
+.navbar{
+    margin: 0 auto 20px auto;
+}
+.h2{
+    color: #F08147;
+    font-weight: 700;
+    font-size: 40px;
+line-height: 60px;
+margin-right: 200px;
+}
+.link1, .link2{
+    font-weight: 500;
+font-size: 20px;
+color: #545D73;
+margin-right: 80px;
+text-decoration: none;
+}
+.link1{
+    color: #2C77ED;
+    font-weight: 700;
+}
+.sign, .login{
+    margin-right: 40px;
+    color: #2C77ED;
+    border: 1.5px solid #2C77ED;
+    text-align: center;
+    font-weight: 600;
+font-size: 20px;
+border-radius: 8px;
+padding: 10px 20px;
+text-decoration: none;
+}
+.sign{
+    margin-left: 270px;
+}
+.login{
+    background-color: #2C77ED;
+    color: white;
+}
+.one{
+    float: left;
+}
+.info{
+    margin-top: 142px;
+    font-weight: 600;
+font-size: 48px;
+line-height: 72px;
+color: #F08147;
+}
+.detail{
+    font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+margin-top: 60px;
+}
+button{
+    background-color: #2C77ED;
+    padding: 12px 25px;
+    font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+color: white;
+border-radius: 8px;
+margin-top: 76px;
+border: none;
+}
+.svg1{
+    margin: 144px 120px 265px 65px;
+}
